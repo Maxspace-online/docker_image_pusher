@@ -7,5 +7,5 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
-itzg/docker-minecraft-bedrock-server
-power721/alist-tvbox
+itzg/minecraft-bedrock-server
+haroldli/alist-tvbox
