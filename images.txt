@@ -10,3 +10,4 @@ allanpk716/chinesesubfinder
 itzg/minecraft-bedrock-server
 haroldli/alist-tvbox
 haroldli/xiaoya-tvbox:native
+haroldli/xiaoya-tvbox
